@@ -19,8 +19,8 @@ Test3
 ---
 Test4
 
-1.下载并安装 libsvm，http://www.csie.ntu.edu.tw/~cjlin/libsvm/，在西瓜数据集 3.0a 上分别用
-线性核训练一个 SVM。用正类 1-6 和负类 9-14 作为训练集，其余作为测试集。C 取不同
+1.下载并安装 libsvm，http://www.csie.ntu.edu.tw/~cjlin/libsvm/
+在西瓜数据集 3.0a 上分别用线性核训练一个 SVM。用正类 1-6 和负类 9-14 作为训练集，其余作为测试集。C 取不同
 的值，其它参数设为默认值。作出测试正确率随 C 取值变化的图，C=[1 100 10000 10^6
 10^8]。
 
